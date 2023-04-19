@@ -1,0 +1,15 @@
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\bin\Debug\net6.0\1.data types.exe
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\bin\Debug\net6.0\1.data types.deps.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\bin\Debug\net6.0\1.data types.runtimeconfig.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\bin\Debug\net6.0\1.data types.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\bin\Debug\net6.0\1.data types.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\1.data types.csproj.AssemblyReference.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\1.data types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\1.data types.AssemblyInfoInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\1.data types.AssemblyInfo.cs
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\1.data types.csproj.CoreCompileInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\1.data types.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\refint\1.data types.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\1.data types.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\1.data types.genruntimeconfig.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\Week 2\1.data types\1.data types\obj\Debug\net6.0\ref\1.data types.dll
