@@ -1,0 +1,15 @@
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\bin\Debug\net6.0\ColoredBalls.exe
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\bin\Debug\net6.0\ColoredBalls.deps.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\bin\Debug\net6.0\ColoredBalls.runtimeconfig.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\bin\Debug\net6.0\ColoredBalls.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\bin\Debug\net6.0\ColoredBalls.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\ColoredBalls.csproj.AssemblyReference.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\ColoredBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\ColoredBalls.AssemblyInfoInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\ColoredBalls.AssemblyInfo.cs
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\ColoredBalls.csproj.CoreCompileInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\ColoredBalls.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\refint\ColoredBalls.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\ColoredBalls.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\ColoredBalls.genruntimeconfig.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\ColoredBalls\obj\Debug\net6.0\ref\ColoredBalls.dll

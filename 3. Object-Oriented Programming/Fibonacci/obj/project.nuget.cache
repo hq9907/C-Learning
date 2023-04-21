@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nnazvfou/YlQ9o6Tca5BlcRdKy5RXyPeZ3+yBRLxSEmTVea7c6151uWUcSKrUvvLdqHD5fxgZ/2EYiCryyPvkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hq990\\Documents\\Antra Fullstack\\Assignment\\C# Learning\\3. Object-Oriented Programming\\Fibonacci\\Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

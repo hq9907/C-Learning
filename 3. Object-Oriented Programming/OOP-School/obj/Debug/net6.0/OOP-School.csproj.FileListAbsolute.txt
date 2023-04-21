@@ -1,0 +1,15 @@
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\bin\Debug\net6.0\OOP-School.exe
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\bin\Debug\net6.0\OOP-School.deps.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\bin\Debug\net6.0\OOP-School.runtimeconfig.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\bin\Debug\net6.0\OOP-School.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\bin\Debug\net6.0\OOP-School.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\OOP-School.csproj.AssemblyReference.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\OOP-School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\OOP-School.AssemblyInfoInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\OOP-School.AssemblyInfo.cs
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\OOP-School.csproj.CoreCompileInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\OOP-School.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\refint\OOP-School.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\OOP-School.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\OOP-School.genruntimeconfig.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\3. Object-Oriented Programming\OOP-School\obj\Debug\net6.0\ref\OOP-School.dll
