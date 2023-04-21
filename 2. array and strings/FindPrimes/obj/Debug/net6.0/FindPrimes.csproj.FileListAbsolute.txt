@@ -1,0 +1,15 @@
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\bin\Debug\net6.0\FindPrimes.exe
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\bin\Debug\net6.0\FindPrimes.deps.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\bin\Debug\net6.0\FindPrimes.runtimeconfig.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\bin\Debug\net6.0\FindPrimes.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\bin\Debug\net6.0\FindPrimes.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\FindPrimes.csproj.AssemblyReference.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\FindPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\FindPrimes.AssemblyInfoInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\FindPrimes.AssemblyInfo.cs
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\FindPrimes.csproj.CoreCompileInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\FindPrimes.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\refint\FindPrimes.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\FindPrimes.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\FindPrimes.genruntimeconfig.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPrimes\obj\Debug\net6.0\ref\FindPrimes.dll

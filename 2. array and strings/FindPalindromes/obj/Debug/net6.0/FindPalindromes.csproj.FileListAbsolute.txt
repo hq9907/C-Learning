@@ -1,0 +1,15 @@
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\bin\Debug\net6.0\FindPalindromes.exe
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\bin\Debug\net6.0\FindPalindromes.deps.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\bin\Debug\net6.0\FindPalindromes.runtimeconfig.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\bin\Debug\net6.0\FindPalindromes.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\bin\Debug\net6.0\FindPalindromes.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\FindPalindromes.csproj.AssemblyReference.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\FindPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\FindPalindromes.AssemblyInfoInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\FindPalindromes.AssemblyInfo.cs
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\FindPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\FindPalindromes.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\refint\FindPalindromes.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\FindPalindromes.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\FindPalindromes.genruntimeconfig.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\FindPalindromes\obj\Debug\net6.0\ref\FindPalindromes.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dZf/SFPW7Pak+SRAC0Db1TcKHccIbUE+ahBpLhs96d+MwvhitylL3tIVuGK5FskfHphxbhY/THPtmxTJvlEfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hq990\\Documents\\Antra Fullstack\\Assignment\\C# Learning\\2. array and strings\\FindPalindromes\\FindPalindromes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

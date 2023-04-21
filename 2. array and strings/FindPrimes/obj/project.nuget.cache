@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFNKKZPq3q8g8WxyN9mrWd/T3ItkO7xeYQQqXdbHiowhdXMn5yZh4kE9K8kWc0qZL16J4kQqllFKhzp0X+SaIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hq990\\Documents\\Antra Fullstack\\Assignment\\C# Learning\\2. array and strings\\FindPrimes\\FindPrimes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

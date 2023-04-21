@@ -1,0 +1,15 @@
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\bin\Debug\net6.0\LongestSequenceOfEqual.exe
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\bin\Debug\net6.0\LongestSequenceOfEqual.deps.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\bin\Debug\net6.0\LongestSequenceOfEqual.runtimeconfig.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\bin\Debug\net6.0\LongestSequenceOfEqual.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\bin\Debug\net6.0\LongestSequenceOfEqual.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\LongestSequenceOfEqual.csproj.AssemblyReference.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\LongestSequenceOfEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\LongestSequenceOfEqual.AssemblyInfoInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\LongestSequenceOfEqual.AssemblyInfo.cs
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\LongestSequenceOfEqual.csproj.CoreCompileInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\LongestSequenceOfEqual.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\refint\LongestSequenceOfEqual.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\LongestSequenceOfEqual.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\LongestSequenceOfEqual.genruntimeconfig.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\LongestSequenceOfEqual\obj\Debug\net6.0\ref\LongestSequenceOfEqual.dll

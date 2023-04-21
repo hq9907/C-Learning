@@ -1,0 +1,15 @@
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\bin\Debug\net6.0\CopyArray.exe
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\bin\Debug\net6.0\CopyArray.deps.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\bin\Debug\net6.0\CopyArray.runtimeconfig.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\bin\Debug\net6.0\CopyArray.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\bin\Debug\net6.0\CopyArray.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\CopyArray.csproj.AssemblyReference.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\CopyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\CopyArray.AssemblyInfoInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\CopyArray.AssemblyInfo.cs
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\CopyArray.csproj.CoreCompileInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\CopyArray.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\refint\CopyArray.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\CopyArray.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\CopyArray.genruntimeconfig.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\CopyArray\obj\Debug\net6.0\ref\CopyArray.dll

@@ -1,0 +1,15 @@
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\bin\Debug\net6.0\RotateAndSum.exe
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\bin\Debug\net6.0\RotateAndSum.deps.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\bin\Debug\net6.0\RotateAndSum.runtimeconfig.json
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\bin\Debug\net6.0\RotateAndSum.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\bin\Debug\net6.0\RotateAndSum.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\RotateAndSum.csproj.AssemblyReference.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\RotateAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\RotateAndSum.AssemblyInfoInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\RotateAndSum.AssemblyInfo.cs
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\RotateAndSum.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\refint\RotateAndSum.dll
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\RotateAndSum.pdb
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\RotateAndSum.genruntimeconfig.cache
+C:\Users\hq990\Documents\Antra Fullstack\Assignment\C# Learning\2. array and strings\RotateAndSum\obj\Debug\net6.0\ref\RotateAndSum.dll

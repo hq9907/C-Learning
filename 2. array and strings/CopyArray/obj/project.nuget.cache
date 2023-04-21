@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "foSpM9DIr5I7SyjeCeUSvez1lZvmm9ABEXYXj+lHXggiJN7B0Wa3ngoeD5sRoyE74hV9lTGvY+N2M2C+jCWd0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hq990\\Documents\\Antra Fullstack\\Assignment\\C# Learning\\2. array and strings\\CopyArray\\CopyArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
