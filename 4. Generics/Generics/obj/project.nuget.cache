@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4Q1c5H9inVnvJkNCH4BmJvPgmGMO3rXnZUZcbj6McU8E531L7d+isie2DXJ6UcayR7kXa9Ky+mnE5zB3EGi4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hq990\\Documents\\Antra Fullstack\\Assignment\\C# Learning\\4. Generics\\Generics\\Generics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\hq990\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
